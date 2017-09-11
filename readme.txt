@@ -1,0 +1,1 @@
+My project is a 2D arcade game with 3D aspects to it. It has two modes: one that simulates a 3D perspective and the other is a 2D side-scrolling game. To use the game just download the folder that contains the images and pyfiles for the game to run and run it as you would any python program. No third party libraries were used. Everything was created using only tkinter and Python.
